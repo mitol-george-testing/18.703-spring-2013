@@ -1,0 +1,28 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Mathematics",
+      "Algebra and Number Theory"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "2c800e94-03c2-0bc5-8700-99bee86361d1"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Modern Algebra",
+  "course_description": "This undergraduate course focuses on traditional algebra topics that have found greatest application in science and engineering as well as in mathematics.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.703",
+  "learning_resource_types": [
+    "Problem Sets",
+    "Lecture Notes",
+    "Exams"
+  ],
+  "title": "Course Metadata"
+}
